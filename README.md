@@ -7,7 +7,7 @@ Instructor: @singhshalinis
 
 2. Search Python 3
 
-If you would like, create an account and save the file as we try examples.
+If you want, create an account and save the file as we try examples.
 
 # What should I bring?
 Laptop or another device with good screen size so that typing programs, editing and debugging is easier.
@@ -21,4 +21,4 @@ Follow along, type code samples, do hands on exercises. It will be fun!
 
 
 
-####_See you soon!_
+_See you soon!_
