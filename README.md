@@ -1,6 +1,6 @@
 # Intro-to-Python
 
-Instructor: @singhshalinis
+Instructor: @singhshalinis, _Email: singhshalinis@gmail.com_ 
 
 # Editor
 1. Goto https://repl.it/
