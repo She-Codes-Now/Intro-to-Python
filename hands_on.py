@@ -33,14 +33,14 @@ print(name)
 
 #Write a function to print your favorite game. Along with a message.
 def my_favorite_game(game):
-  if game.lower() == 'minecraft':
-    print('I like minecraft!')
-  elif game.lower() == 'chess':
-    print('I like chess!')
+  if game.lower() == 'overwatch':
+    print('I like overwatch!')
+  elif game.lower() == ‘final fantasy':
+    print('I like final fantasy!')
   else:
     print('I like ', game)
-  
-my_favorite_game('Minecraft')
+
+my_favorite_game(‘Overwatch')
 #------------------------------------------------------------------------------
 
 
